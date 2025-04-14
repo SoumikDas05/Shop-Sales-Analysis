@@ -14,6 +14,13 @@
 4. Connect the **Excel** file to the **Power BI**.
 5. Design and build the interactive dashboard.
 
+
+
+https://github.com/user-attachments/assets/de896368-a577-4ec1-b15e-3f0b8f7cdf89
+
+
+
+
 ![Screenshot 2025-04-14 103314](https://github.com/user-attachments/assets/538e3dae-172f-4885-b500-dfe10d9bcb2e)
 
 ![Screenshot 2025-04-14 103338](https://github.com/user-attachments/assets/8212b901-64bc-47f1-ba93-89ad87743852)
@@ -33,4 +40,8 @@
 7. **Sales by Gender Category** : **Women** contributed the most to sales making up **64.05%(14M)**.
 8. **Sales by Ship-State** : **Maharastra** generated the highest sales, totaling **3M** from **4519** customers.
 9. **Order Status** : Most of the items **delivered successfully**, with a **delivery rate of(93.08%)**.
-   
+
+**Disclaimer** : This is an Indian Shop. So, all the amounts is in **INR** .
+
+**Conclusion** : 
+This Power BI project successfully demonstrated the end-to-end process of data analysis and visualization using real-world Vindra Store data. By integrating Microsoft Excel, and Power BI. Here, we were able to clean, model, and visualize data to extract meaningful business insights.Key findings from the dashboard, such as identifying the most used channel,most sales product,total revenue, top-spending age groups, and customer satisfaction , most spending state, record sale by month,enable stakeholders to make data-driven decisions. The interactive visualizations and KPIs provide a comprehensive view of customer behavior, market, and total revenue .This report will help the stakeholders to understand their business trends and help them to make decisions in the future.
