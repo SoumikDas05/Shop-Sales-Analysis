@@ -14,11 +14,13 @@
 4. Connect the **Excel** file to the **Power BI**.
 5. Design and build the interactive dashboard.
 
-![Screenshot 2025-04-14 103356](https://github.com/user-attachments/assets/0f783c91-9013-4312-9361-90f1e3cbc081)
-
 ![Screenshot 2025-04-14 103314](https://github.com/user-attachments/assets/538e3dae-172f-4885-b500-dfe10d9bcb2e)
 
 ![Screenshot 2025-04-14 103338](https://github.com/user-attachments/assets/8212b901-64bc-47f1-ba93-89ad87743852)
+
+
+![Screenshot 2025-04-14 103356](https://github.com/user-attachments/assets/0f783c91-9013-4312-9361-90f1e3cbc081)
+
 
 
 **Insights**
