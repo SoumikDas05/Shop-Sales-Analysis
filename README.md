@@ -1,5 +1,5 @@
 # Shop-Sales-Analysis
-**Problem Statement** : Vindra store wants to know about their sales report of 2022. As they want to monitor their sales, market trend, customer behaviour. So they wants a insightful report that will help them to grow in business and make better decisions for the future. This project aims to build an insighful report and solve the problem by building dynamic dashboard that will visualizes **KPI, total revenue, market trend** and help them to make better decision making for the future.
+**Problem Statement** : Vindra store wants to know about their sales report of 2022. As they want to monitor their sales, market trend, customer behaviour. So they want an insightful report that will help them to grow in business and make better decisions for the future. This project aims to build an insighful report and solve the problem by building dynamic dashboard that will visualizes **KPI, total revenue, market trend** and help them to make better decision making for the future.
 
 **Project Overview** : To develop a comprehensive report that delivers detailed customer sales report. This report provides key insights and trends, enabling stakeholders to monitor and analyze the sales operations effectively using various **KPIs and visualization**. 
 
